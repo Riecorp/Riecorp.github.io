@@ -20,5 +20,6 @@ Then open `http://localhost:4173`.
 - `style.css` — responsive layout, visual design, and animations
 - `script.js` — mobile navigation, section highlighting, and progressive reveal effects
 - `assets/riecorp-social-preview.png` — social sharing preview
+- `assets/the-gorge-project.png` — The Gorge development screenshot
 
 Replace the generic LinkedIn URL in `index.html` when the final Riecorp profile is available.
