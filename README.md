@@ -21,4 +21,4 @@ Then open `http://localhost:4173`.
 - `script.js` — mobile navigation, section highlighting, and progressive reveal effects
 - `assets/riecorp-social-preview.png` — social sharing preview
 
-Before launch, replace the placeholder email address and generic LinkedIn URL in `index.html` with the final Riecorp contact details.
+Replace the generic LinkedIn URL in `index.html` when the final Riecorp profile is available.
